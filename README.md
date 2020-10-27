@@ -1,2 +1,2 @@
 # protist.info
-Protist Depository
+Protist Depository. Currently in development.
